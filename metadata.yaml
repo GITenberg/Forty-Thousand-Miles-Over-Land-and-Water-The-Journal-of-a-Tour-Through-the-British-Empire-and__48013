@@ -1,10 +1,16 @@
 _repo: Forty-Thousand-Miles-Over-Land-and-Water-The-Journal-of-a-Tour-Through-the-British-Empire-and__48013
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48013-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Vincent, Lady (Ethel Gwendoline )
     gutenberg_agent_id: '44579'
     url: http://www.gutenberg.org/2009/agents/44579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48013#Forty-Thousand-Miles-Over-Land-and-Water-The-Journal-of-a-Tour-Through-the-British-Empire-and_
 gutenberg_issued: '2015-01-18'
 gutenberg_type: Text
 identifiers:
